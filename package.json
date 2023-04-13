@@ -1,0 +1,25 @@
+{
+  "name": "basic-template",
+  "version": "1.0.0",
+  "description": "Is an initial project for training",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robsonnsbr/basic-template.git"
+  },
+  "keywords": [
+    "template",
+    "javascript",
+    "css",
+    "html"
+  ],
+  "author": "Robson Monteiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Robsonnsbr/basic-template/issues"
+  },
+  "homepage": "https://github.com/Robsonnsbr/basic-template#readme"
+}
